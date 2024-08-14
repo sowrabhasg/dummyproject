@@ -7,5 +7,7 @@ public class demo {
 		
 		system.output.println("sowrabha");
 				system.output.println("yogish");
+		system.output.println("niksha");
+		
 	}
 }
