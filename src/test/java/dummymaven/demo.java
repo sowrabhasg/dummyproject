@@ -7,5 +7,4 @@ public class demo {
 		
 		system.output.println("sowrabha");
 	}
-
 }
